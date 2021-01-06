@@ -1,0 +1,27 @@
+body.plantilla{
+    text-align: center;
+    background-image: url(https://image.freepik.com/vector-gratis/campo-futbol-verde_225004-1137.jpg);
+
+}
+header.plantilla{
+    background-color: black;
+    color: white;
+}
+body.valencia{
+    background-image: url(https://static1.lasprovincias.es/www/multimedia/201806/22/media/cortadas/centenario-valenciacf-kby-U6012792414588F-624x385@Las%20Provincias.jpg);
+    text-align: center;
+}
+h1.valencia{
+    color: white;
+}
+header{
+    text-align: center;
+}
+nav.valencia{
+    color: white;
+    background-color: white;
+    text-align: center;
+}
+input.valencia{
+    background-color: orange;
+}
